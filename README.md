@@ -1,1 +1,1 @@
-# Data_Structure_and_Algorithms_for_Programming_Contest
+### Data Structures and Algorithms for Programming Contests

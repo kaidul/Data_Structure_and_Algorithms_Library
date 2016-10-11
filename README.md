@@ -1,3 +1,5 @@
 ## Classical Data Structures and Algorithms
 ### Sorting
-+ [Quick Sort](Quick_Sort)
++ [Merge Sort](Merge_Sort.cpp)
++ [Quick Sort](Quick_Sort.cpp)
++ [Bubble Sort](Bubble_Sort.cpp)

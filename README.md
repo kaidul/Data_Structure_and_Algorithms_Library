@@ -13,6 +13,7 @@
 + [Bubble Sort](Bubble_Sort.cpp)
 + [Insertion Sort](Insertion_Sort.cpp)
 + [Selection Sort](Selection_Sort.cpp)
++ [Bucket Sort](Bucket_Sort.cpp)
 + [Count Sort](Count_Sort.cpp)
 + [Radix Sort](Radix_Sort.cpp)
 + [Pancake Sort](Pancake_Sort.cpp)

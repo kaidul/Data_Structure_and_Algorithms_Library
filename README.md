@@ -1,8 +1,7 @@
 ## Classical Data Structures and Algorithms
 ### String Algorithm
-#### Pattern Searching
 + [Finite Automata Pattern Searching](Finite_Automata_Pattern_Searching.cpp)
-
++ [Minimum Expression](Minimum_expression.cpp)
 ### Dynamic Programming
 + [Digit Dp I](Digit_DP_I.cpp)
 

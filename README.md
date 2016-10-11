@@ -3,3 +3,5 @@
 + [Merge Sort](Merge_Sort.cpp)
 + [Quick Sort](Quick_Sort.cpp)
 + [Bubble Sort](Bubble_Sort.cpp)
++ [Count Sort](Counting_Sort.cpp)
++ [Pancake Sort](Pancake_Sort.cpp)

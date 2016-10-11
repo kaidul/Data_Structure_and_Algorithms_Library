@@ -11,5 +11,8 @@
 + [Merge Sort](Merge_Sort.cpp)
 + [Quick Sort](Quick_Sort.cpp)
 + [Bubble Sort](Bubble_Sort.cpp)
++ [Insertion Sort](Insertion_Sort.cpp)
++ [Selection Sort](Selection_Sort.cpp)
 + [Count Sort](Count_Sort.cpp)
++ [Radix Sort](Radix_Sort.cpp)
 + [Pancake Sort](Pancake_Sort.cpp)

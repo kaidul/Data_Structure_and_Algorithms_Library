@@ -1,2 +1,1 @@
-### Classical Data Structures and Algorithms
-# Sorting
+## Classical Data Structures and Algorithms

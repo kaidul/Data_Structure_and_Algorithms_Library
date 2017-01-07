@@ -4,6 +4,25 @@
 + [Union Find(Disjoint Set)](union_find.cpp)
 
 ### Dynamic Programming
++ [Coin Change and variants](coin_change.cpp)
++ [Knapsack Problem and variants](knapsack.cpp)
++ [Matrix Chain Multiplication](mcm.cpp)
++ [Longest Increasing Subsequence( O(n^2) )](lis.cpp)
++ [Longest Increasing Subsequence( O(nlogn) )](lis.cpp)
++ [Travelling Salesman Problem](tsp.cpp)
++ [Maximum Sum Subarray( O(n^4) and O(n^3) )](maximum_sum_subarray.cpp)
++ [Kadane Algorithm](kadane.cpp)
++ [Maximum Sum Subarray using Kadane( O(n^3) )](kadane.cpp)
++ [Optimal Binary Search Tree](optimal_search_tree.cpp)
++ [Subset Sum](subset_sum.cpp)
++ [DAG Minimum Path](DAG_min_path.cpp)
++ [Minimum Cost Path](min_cost_path.cpp)
++ [Digit Dp I](Digit_DP_I.cpp)
+
+### Backtracking
++ [Permutation Generator](permutation_generator.cpp)
++ [N-Queen](nqueen.cpp)
++ [Prime Ring](prime_ring.cpp)
 
 ### String Algorithm
 + [Knuth-Morris-Pratt’s Algorithm](knuth.cpp)
@@ -21,10 +40,6 @@
 
 ### Graph Theory
 + [Lowest Common Ancestor(sparse table)](lca.cpp)
-
-
-### Dynamic Programming
-+ [Digit Dp I](Digit_DP_I.cpp)
 
 ### Mathematics
 + [Power Function(Big mod)](Power.cpp)
@@ -61,7 +76,6 @@
 + [Green HackenBush(Colon Principle)](hackenbush.cpp)
 
 ### Binary Search
-
 + [Binary Search](binary_search.cpp)
 + [Lower Bound](binary_search.cpp)
 + [Upper Bound](binary_search.cpp)

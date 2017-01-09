@@ -75,6 +75,9 @@
 + [Grundy Variant: Coins on Chessboard](grundy.cpp)
 + [Green HackenBush(Colon Principle)](hackenbush.cpp)
 
+### Computational Geometry
++ [Computational Geometry Template](computational_geometry_template.cpp)
+
 ### Binary Search
 + [Binary Search](binary_search.cpp)
 + [Lower Bound](binary_search.cpp)

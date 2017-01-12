@@ -1,6 +1,9 @@
 ## Data Structures and Algorithms for Online Programming Contest
 
 ### Data Structure
++ [Loop Detection](topsort.cpp)
++ [Topological Sort](topsort.cpp)
++ [Strongly Connected Component](scc.cpp)
 + [Union Find(Disjoint Set)](union_find.cpp)
 
 ### Dynamic Programming

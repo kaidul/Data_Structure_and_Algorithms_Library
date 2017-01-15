@@ -1,9 +1,6 @@
 ## Data Structures and Algorithms for Online Programming Contest
 
 ### Data Structure
-+ [Loop Detection](topsort.cpp)
-+ [Topological Sort](topsort.cpp)
-+ [Strongly Connected Component](scc.cpp)
 + [Union Find(Disjoint Set)](union_find.cpp)
 
 ### Dynamic Programming
@@ -42,6 +39,10 @@
 + [Suffix Automata](suffix_automata.cpp)
 
 ### Graph Theory
++ [Floyd Warshall’s](floyd_warshall.cpp)
++ [Loop Detection](topsort.cpp)
++ [Topological Sort](topsort.cpp)
++ [Strongly Connected Component](scc.cpp)
 + [Lowest Common Ancestor(sparse table)](lca.cpp)
 
 ### Mathematics

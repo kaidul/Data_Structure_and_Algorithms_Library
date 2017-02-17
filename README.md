@@ -18,6 +18,7 @@
 + [DAG Minimum Path](DAG_min_path.cpp)
 + [Minimum Cost Path](min_cost_path.cpp)
 + [Digit Dp I](Digit_DP_I.cpp)
++ [Digit Dp II](Digit_DP_II.cpp)
 
 ### Backtracking
 + [Permutation Generator](permutation_generator.cpp)
@@ -25,6 +26,7 @@
 + [Prime Ring](prime_ring.cpp)
 
 ### String Algorithm
++ [Aho-Corasick Algorithm](Aho_Corasick.cpp)
 + [Knuth-Morris-Pratt’s Algorithm](knuth.cpp)
 + [Rabin Karp Pattern Searching](rabin_karp.cpp)
 + [Z Algorithm](z.cpp)

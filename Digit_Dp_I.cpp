@@ -16,18 +16,18 @@ i64 solveUtil(int depth, int sum) {
     if(visited[depth][sum]) {
         return dp[depth][sum];
     }
-    visited[depth][sum] = true;
-
     i64 ret = 0LL;
-    for(int i = 0; i <= 9; ++i) {
-        if(sum - i >= 0) {
-            ret += solveUtil(depth - 1, sum - i);
+    for(int d = 0; d <= 9; ++d) {
+        if(sum - d >= 0) {
+            ret += solveUtil(depth - 1, sum - d);
         }
     }
+    visited[depth][sum] = true;
     return dp[depth][sum] = ret;
 }
 
 i64 solve(i64 N) {
+	if(N < 0LL) return 0LL;
     char buffer[BIT_LENGTH_64];
     sprintf(buffer, LLD, N);
     int len = strlen(buffer);
@@ -44,8 +44,9 @@ i64 solve(i64 N) {
         depth--;
         sum -= digit;
     }
+    ret += (sum == 0);
     return ret;
 }
 
-// solve(B  + 1) - solve(A);
+// solve(B) - solve(A - 1LL);
 

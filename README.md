@@ -118,6 +118,8 @@
 
 ### Computational Geometry
 + [Computational Geometry Template](computational_geometry_template.cpp)
++ [Convex Hull (Jarvis’s Algorithm or Wrapping)](convex_hull_jarvis.cpp)
++ [Convex Hull (Graham Scan)](convex_hull_graham_scan.cpp)
 
 ### Hashing
 + [Double Hashing](double_hashing.cpp)

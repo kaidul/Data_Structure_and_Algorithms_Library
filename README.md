@@ -1,8 +1,5 @@
 ## Data Structures and Algorithms for Online Programming Contest
 
-### Data Structure
-+ [Union Find(Disjoint Set)](union_find.cpp)
-
 ### Dynamic Programming
 + [Coin Change and variants](coin_change.cpp)
 + [Knapsack Problem and variants](knapsack.cpp)
@@ -81,14 +78,36 @@
 + [Grundy Variant: Coins on Chessboard](grundy.cpp)
 + [Green HackenBush(Colon Principle)](hackenbush.cpp)
 
-### Computational Geometry
-+ [Computational Geometry Template](computational_geometry_template.cpp)
-
 ### Binary Search
 + [Binary Search](binary_search.cpp)
 + [Lower Bound](binary_search.cpp)
 + [Upper Bound](binary_search.cpp)
 + [Equal Range](binary_search.cpp)
+
+### Data Structure
++ [Singly Linked List](singly_linked_list.cpp)
++ [Doubly Linked List](doubly_linked_list.cpp)
++ [Vector](vector.cpp)
++ [Stack](stack.cpp)
++ [Queue](queue.cpp)
++ [List](list.cpp)
++ [Hashtable.cpp](hashtable.cpp)
++ [HashMap](hashmap.cpp)
++ [HashSet](hashset.cpp)
++ [Union Find(Disjoint Set)](union_find.cpp)
++ [Binary Search Tree](BST.cpp)
++ [Segment Tree](segment_tree.cpp)
++ [Segment Tree (Lazy Propagation)](segment_tree_lazy.cpp)
++ [2D Segment Tree (Quad tree)](2D_segment_tree.cpp)
++ [Binary Indexed Tree](BIT.cpp)
++ [2D Binary Indexed Tree](2D_BIT.cpp)
++ [(AVL Tree) Self Balanced BST](AVL.cpp)
++ [(Splay Tree) Self Balanced BST](splay.cpp)
++ [Ternary Search Tree](ternary_search_tree.cpp)
++ [Heap (Min)](heap.cpp)
+
+### Computational Geometry
++ [Computational Geometry Template](computational_geometry_template.cpp)
 
 ### Hashing
 + [Double Hashing](double_hashing.cpp)

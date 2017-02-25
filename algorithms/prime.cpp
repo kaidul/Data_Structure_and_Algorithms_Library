@@ -91,15 +91,3 @@ void primeFactor2(int x, vector<pair<int, int>>& factors) {
         }
     }
 }
-
-// primarility test
-bool isPrime(int x) {
-    if(x < 2) return false;
-    int sqrtX = sqrt(x);
-    for(int i = 2; i <= sqrtX; i++) {
-        if(x % i == 0) {
-            return false;
-        }
-    }
-    return true;
-}

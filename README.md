@@ -24,7 +24,7 @@
 
 ### String Algorithm
 + [Aho-Corasick Algorithm](algorithms/Aho_Corasick.cpp)
-+ [Knuth-Morris-Pratt’s Algorithm](algorithms/knuth.cpp)
++ [Knuth-Morris-Pratt’s Algorithm](algorithms/kmp.cpp)
 + [Rabin Karp Pattern Searching](algorithms/rabin_karp.cpp)
 + [Z Algorithm](algorithms/z.cpp)
 + [Finite Automata Pattern Searching](algorithms/Finite_Automata_Pattern_Searching.cpp)

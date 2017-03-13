@@ -12,9 +12,9 @@
 + [Maximum Sum Subarray using Kadane( O(n^3) )](algorithms/kadane.cpp)
 + [Optimal Binary Search Tree](algorithms/optimal_search_tree.cpp)
 + [Subset Sum](algorithms/subset_sum.cpp)
++ [Catalan Number](algorithms/CatalanNumber.cpp)
 + [DAG Minimum Path](algorithms/DAG_min_path.cpp)
 + [Minimum Cost Path](algorithms/min_cost_path.cpp)
-+ [Catalan Number](algorithms/CatalanNumber.cpp)
 + [Digit Dp I](algorithms/Digit_dp_I.cpp)
 + [Digit Dp II](algorithms/Digit_dp_II.cpp)
 

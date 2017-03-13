@@ -14,8 +14,9 @@
 + [Subset Sum](algorithms/subset_sum.cpp)
 + [DAG Minimum Path](algorithms/DAG_min_path.cpp)
 + [Minimum Cost Path](algorithms/min_cost_path.cpp)
-+ [Digit Dp I](algorithms/Digit_DP_I.cpp)
-+ [Digit Dp II](algorithms/Digit_DP_II.cpp)
++ [Catalan Number](algorithms/CatalanNumber.cpp)
++ [Digit Dp I](algorithms/Digit_dp_I.cpp)
++ [Digit Dp II](algorithms/Digit_dp_II.cpp)
 
 ### Backtracking
 + [Permutation Generator](algorithms/permutation_generator.cpp)

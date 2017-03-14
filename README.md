@@ -17,6 +17,8 @@
 + [Minimum Cost Path](algorithms/min_cost_path.cpp)
 + [Digit Dp I](algorithms/Digit_dp_I.cpp)
 + [Digit Dp II](algorithms/Digit_dp_II.cpp)
++ [Digit Dp III](algorithms/Digit_dp_III.cpp)
++ [Digit Dp IV](algorithms/Digit_dp_IV.cpp)
 
 ### Backtracking
 + [Permutation Generator](algorithms/permutation_generator.cpp)

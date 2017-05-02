@@ -12,3 +12,39 @@ void ncr() {
         }
     }
 }
+
+// Using combinatorics
+#define MAX 100001
+#define MOD 1000000007
+int fact[MAX];
+int ifact[MAX];
+
+int power(int base, int exp, int mod) {
+    if(exp == 0) return 1;
+    int ret = power(base, exp / 2, mod) % mod;
+    ret = 1LL * ret * ret % mod;
+    if(exp & 1) {
+        ret = 1LL * ret * base % mod;
+    }
+    return ret;
+}
+
+// Modular mutiplicative inverse
+int modInv(int base, int mod = 1000000007) {
+    return power(base, mod - 2, mod);
+}
+
+void init() {
+    fact[0] = 1;
+    ifact[0] = modInv(fact[0]);
+    FOR(i, 1, MAX - 1) {
+        fact[i] = 1LL * i * fact[i - 1] % MOD;
+        ifact[i] = modInv(fact[i]);
+    }
+}
+
+int ncr(int n, int r) {
+    int ncr = 1LL * fact[n] * ifact[r] % MOD;
+    ncr = 1LL * ncr * ifact[n - r] % MOD;
+    return ncr;
+}

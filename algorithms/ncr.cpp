@@ -44,7 +44,8 @@ void init() {
 }
 
 int ncr(int n, int r) {
-    int ncr = 1LL * fact[n] * ifact[r] % MOD;
-    ncr = 1LL * ncr * ifact[n - r] % MOD;
-    return ncr;
+    int ans = fact[n];
+    ans = 1LL * ans * ifact[r] % MOD;
+    ans = 1LL * ans * ifact[n - r] % MOD;
+    return ans;
 }

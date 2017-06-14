@@ -25,6 +25,9 @@
 + [N-Queen](algorithms/nqueen.cpp)
 + [Prime Ring](algorithms/prime_ring.cpp)
 
+### Greedy Algorithm
++ [Huffman Coding](algorithms/Huffman_coding.cpp)
+
 ### String Algorithm
 + [Aho-Corasick Algorithm](algorithms/Aho_Corasick.cpp)
 + [Knuth-Morris-Pratt’s Algorithm](algorithms/kmp.cpp)

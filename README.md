@@ -56,7 +56,9 @@
 + [Bellman Ford's](algorithms/bellman_fords.cpp)
 + [Kruskal Minimum Spanning Tree](algorithms/kruskal.cpp)
 + [Minimum Vertex Cover](algorithms/min_vertex_cover.cpp)
-+ [Maximum Flow (Edmonds Karp’s)](algorithms/max_flow.cpp)
++ [Maximum Flow (Edmonds Karp’s) I](algorithms/max_flow.cpp)
++ [Maximum Flow (Edmonds Karp’s) II](algorithms/Maximum_Flow_Problem_I_Edmond_Karp.cpp)
++ [Maximum Bipartite Matching](algorithms/maximum_bipartite_matching.cpp)
 + [Stable Marriage Problem](algorithms/stable_marriage_problem.cpp)
 + [Heavy Light Decomposition](algorithms/HLD.cpp)
 

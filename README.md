@@ -79,6 +79,7 @@
 + [Floyd Cycle Finding Algorithm](algorithms/floyd_cycle_finding.cpp)
 + [Big Integer](algorithms/big_integer.cpp)
 + [Josephus Recurrence](algorithms/Josephus_Recurrence.cpp)
++ [Fast Fourier Transform](algorithms/FFT.cpp)
 
 ### Combinotorics
 + [Factorial](algorithms/factorial.cpp)

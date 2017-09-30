@@ -34,7 +34,7 @@
 + [Rabin Karp Pattern Searching](algorithms/rabin_karp.cpp)
 + [Z Algorithm](algorithms/z.cpp)
 + [Finite Automata Pattern Searching](algorithms/Finite_Automata_Pattern_Searching.cpp)
-+ [Trie (Prefix/Radix Tree)](algorithms/algorithms/Trie.cpp)
++ [Trie (Prefix/Radix Tree)](algorithms/Trie.cpp)
 + [Longest Common Subsequence](algorithms/lcs.cpp)
 + [Edit Distance](algorithms/edit_distance.cpp)
 + [Longest Palindromic Subsequence](algorithms/lps.cpp)

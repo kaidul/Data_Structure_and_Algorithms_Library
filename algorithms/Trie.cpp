@@ -6,12 +6,12 @@ private:
         int mark;
         trieNode* children[SIZE];
         trieNode(): mark(NOT_FOUND) {
-            for(int i = 0; i < SIZE; ++i) {
+            for (int i = 0; i < SIZE; ++i) {
                 children[i] = nullptr;
             }
         }
         ~trieNode() {
-            for(int i = 0; i < MAX; ++i) {
+            for (int i = 0; i < SIZE; ++i) {
                 delete children[i];
                 children[i] = nullptr;
             }
@@ -28,9 +28,9 @@ public:
     
     void insert(string const& key, int id) {
         trieNode* pCrawl = root;
-        for(int i = 0; i < key.length(); ++i) {
+        for (int i = 0; i < (int)key.length(); ++i) {
             int indx = key[i] - 'a';
-            if(!pCrawl->children[indx]) {
+            if (!pCrawl->children[indx]) {
                 pCrawl->children[indx] = new trieNode();
             }
             pCrawl = pCrawl->children[indx];
@@ -40,9 +40,9 @@ public:
     
     int search(string const& key) {
         trieNode *pCrawl = root;
-        for(int i = 0; i < key.length(); ++i) {
+        for (int i = 0; i < (int)key.length(); ++i) {
             int indx = key[i] - 'a';
-            if(!pCrawl->children[indx]) {
+            if (!pCrawl->children[indx]) {
                 return NOT_FOUND;
             }
             pCrawl = pCrawl->children[indx];

@@ -44,7 +44,7 @@ void stableMarriage() {
                 }
             }
         }
-        // if man got his dick still dry, push the filth into frinedzone again
+        // if man got his dick still dry, push the loser into frinedzone again
         if(friendZoned) bachelor.push(man);
     }
 }

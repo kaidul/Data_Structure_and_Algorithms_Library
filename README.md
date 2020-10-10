@@ -1,5 +1,9 @@
 ## Data Structures and Algorithms for Online Programming Contest
-
+## bitmasking
++ left shift
++ right shift
++ divisible by 2 or not
++ general problems like subsequence problem
 ### Dynamic Programming
 + [Coin Change and variants](algorithms/coin_change.cpp)
 + [Knapsack Problem and variants](algorithms/knapsack.cpp)

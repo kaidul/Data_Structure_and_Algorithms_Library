@@ -47,6 +47,7 @@
 + [Floyd Warshall’s](algorithms/floyd_warshall.cpp)
 + [Loop Detection](algorithms/topsort.cpp)
 + [Topological Sort](algorithms/topsort.cpp)
++ [Bipartite Graph Check](algorithms/bipartite_graph_check.cpp)
 + [Strongly Connected Component (Kosaraju)](algorithms/scc.cpp)
 + [Lowest Common Ancestor(sparse table)](algorithms/lca.cpp)
 + [Articulation Point](algorithms/articulation_point.cpp)
